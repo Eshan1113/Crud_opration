@@ -1,0 +1,6 @@
+admin
+adimn@gmail.com
+password:-123456
+user
+user@gmail.com
+password:-123456

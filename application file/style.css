@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;600;800;900&display=swap');
+
+.social{
+    font-size: 2rem;
+    margin-top: 8rem;
+    padding-bottom: 1rem;
+    color: var(--black);
+    text-align: center;
+    color: rgb(245, 240, 240);
+    
+}
+
+
+a:hover {
+    font-size: 10px;
+    
+   
+}
+h3{
+    color: white ;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 500;
+}
+
+label{
+    color: white;
+    font-size: 18px;
+}
+
+
+  
+
+
+
+
+  .form-group{
+    color: azure;
+  }
+ 
+@media (max-width: 768px) {
+    .icardbg2 {
+        margin-top: 40px;
+    }
+}
